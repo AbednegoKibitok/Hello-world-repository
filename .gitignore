@@ -1,3 +1,5 @@
+#This should be ignored by git
+./test.md
 # Logs
 logs
 *.log
